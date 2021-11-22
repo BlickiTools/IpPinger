@@ -1,6 +1,6 @@
 @echo off
 color C
-title Blicki Pinger
+title Blicki Pinger!
                         
 echo =====-Blicki Pinger By Blicki#0001-=====
 set /p IP="Host: "
